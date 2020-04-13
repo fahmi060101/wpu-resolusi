@@ -3,3 +3,5 @@ recana
 * pemrograman dan pembelajara2 lain
 2. membuat tutotial tentang bahasa pemrograman
 3. menambahkan data2 baru
+4. menambahkan pup up pada data tabel
+5. menambahkan data table
