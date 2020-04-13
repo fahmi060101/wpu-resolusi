@@ -1,7 +1,6 @@
 recana
 1. ingin membuat vidio-vidio tutorial
 * pemrograman dan pembelajara2 lain
-2. membuat tutotial tentang bahasa pemrograman
-3. menambahkan data2 baru
-4. menambahkan pup up pada data tabel
-5. menambahkan data table
+2. menambahkan data2 baru
+3. menambahkan pup up pada data tabel
+4. menambahkan data table
