@@ -2,3 +2,4 @@ recana
 1. ingin membuat vidio-vidio tutorial
 * pemrograman dan pembelajara2 lain
 2. membuat tutotial tentang bahasa pemrograman
+3. menambahkan data2 baru
